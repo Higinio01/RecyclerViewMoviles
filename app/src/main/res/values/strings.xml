@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aplicacion de Lista de Tareas</string>
+    <string name="txtAgregar">Agregar tarea:</string>
+</resources>
